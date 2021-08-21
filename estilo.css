@@ -1,29 +1,44 @@
 body{
     background-color: rgb(86, 146, 235);
+    backgorund-image: url("background.jpg");
 }
 #logo{
   background-color: rgba(255, 255, 255, 0.795);
   border: 3px solid;
-  border-color:rgb(13, 87, 226);
+  border-color:rgb(0, 0, 0);
 }
 .box {
   display: flex;
   font-size: 5ex;
 }
 #box1{
-background-color: rgb(33, 88, 114);
+background-color: rgb(0, 0, 0);
 border: 3px solid;
-border-color: rgb(13, 87, 226);
+border-color: rgb(17, 86, 150));
+color: gold;
 }
 #box2{
-background-color: rgb(33, 88, 114);
+background-color: rgb(0, 0, 0);
 border: 3px solid;
-border-color: rgb(13, 87, 226);
+border-color: rgb(17, 86, 150);
+color: gold;
 }
 #box3{
-background-color: rgb(33, 88, 114);
+background-color: rgb(0, 0, 0);
 border: 3px solid;
-border-color: rgb(13, 87, 226);
+border-color: rgb(17, 86, 150);
+color: gold;
+}
+#parágrafo{
+text-align: justify;
+margin-left: auto;
+margin-right: auto;
+width: 40em;
+background-color: rgb(0, 0, 0);
+border: 3px solid;
+border-color: rgb(17, 86, 150);
+font-size: 4ex;
+color: gold;
 }
 #copyright{
   text-align: center; 
@@ -31,4 +46,5 @@ border-color: rgb(13, 87, 226);
     bottom:0;
     width:99%;
     font-size: 1ex;
+    color: rgb(0, 0, 0);
 }
