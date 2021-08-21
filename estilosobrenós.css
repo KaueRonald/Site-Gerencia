@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(86, 146, 235);
+    background-image: url("background.jpg");
+}
+#luis{
+    text-align: center;
+    margin-top: 10%;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 3em; color: black;
+  }
+  #luis_texto{
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    color: rgb(0, 0, 0);
+  }
+  #kaue_texto{
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    color: rgb(0, 0, 0);
+   
+  }
+  #kaue{
+    text-align: center;
+    margin-top: 5%;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 3em; color: black;
+  }
+  #luis a{
+    text-decoration: none;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    color: black;
+  }
+  #kaue a{
+    text-decoration: none;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    color: black;
+  }
+  #luis a:hover{
+    transition: 0.3s;
+    color:gold;
+  }
+  #kaue a:hover{
+    transition: 0.3s;
+    color:gold;
+  }
