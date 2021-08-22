@@ -42,6 +42,7 @@ transition: 0.3s;
 }
 #copyright{
     text-align: center; 
+    position: fixed;
       bottom:0;
       width:99%;
       font-size: 2ex;
