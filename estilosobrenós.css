@@ -116,3 +116,7 @@ transition: 0.3s;
      background-color: rgb(39, 29, 167);
     align-items: center;
   }
+
+  #texto{
+    margin-bottom: 130px;
+  }
