@@ -41,6 +41,7 @@ color: rgb(255, 255, 255);
 transition: 0.3s;
 }
 #copyright{
+<<<<<<< HEAD
   text-align: center; 
   position: absolute;
   display: block;
@@ -49,6 +50,15 @@ transition: 0.3s;
     font-size: 2ex;
     color: rgb(255, 255, 255);
 }
+=======
+    text-align: center; 
+    position: fixed;
+      bottom:0;
+      width:99%;
+      font-size: 2ex;
+      color: rgb(255, 255, 255);
+  }
+>>>>>>> ed0468968ed6b8979d0dedb79889246c444e6ab2
   
   #box1:hover{
     background-color: rgb(39, 29, 167);
