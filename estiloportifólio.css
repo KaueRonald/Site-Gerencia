@@ -62,3 +62,31 @@ transition: 0.3s;
      background-color: rgb(39, 29, 167);
     align-items: center;
   }
+#portifólio1{
+    width: 50%;
+    height: 60%;
+    margin-left: 25%;
+    background-color: rgba(255, 255, 255, 0.795);
+    border: 3px solid;
+    font-size: 3em; color: rgb(207, 207, 207);
+  -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    
+  }
+  #texto_portifólio1{
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    background-color: rgba(0, 0, 0, 0.596);
+    border: 1px solid;
+    border-color:black;
+    color: rgb(243, 243, 243);
+  }
+  #copyright{
+    text-align: center; 
+      bottom: 0%;
+      width:99%;
+      font-size: 2ex;
+      color: rgb(255, 255, 255);
+  }
